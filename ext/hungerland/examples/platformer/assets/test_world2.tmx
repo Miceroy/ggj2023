@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="left-down" width="40" height="20" tilewidth="64" tileheight="64" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="Tileset/Map_tileset.tsx"/>
+ <tileset firstgid="301" source="Tileset/Map_decor.tsx"/>
+ <imagelayer id="2" name="Background" visible="0" locked="1" parallaxx="0" parallaxy="0.3" repeatx="1">
+  <image source="Background/Background.png" width="320" height="960"/>
+ </imagelayer>
+ <layer id="5" name="BackdroungTiles" width="40" height="20" visible="0" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20LL6AAAAA+BgyAAAE=
+  </data>
+ </layer>
+ <layer id="1" name="PlatformTiles" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlEEKwjAQRedialAXHkLKVEE3XkAF9S4u9FSu9B5OKcExJtNpmtIs/PCgbdrpSyZkBfkGidXQEkIQ/n5dsoNh/W7EWeAOYb8pMUvAnNV8Eq8W/ij4VWNlArr0R/Kraktrr6XsyS+HIPzul5yCxJU4MPrICepeX5TPbZDYCnX3UDsfO9nFB0H2C8V69+2OEOcXiklQY0OMGa7fiFh6mChqF+zad1bbmAY//l/Xj/eO07aPCN/n9JqNFb4PlH4xecBnHpp1Nkq3VH480trYGOd+Af49FUPTfDR+7ju+dbOE9lsOVHv+DfytYJQ=
+  </data>
+ </layer>
+ <objectgroup id="4" name="Objects" visible="0" locked="1"/>
+ <layer id="3" name="ForegroundTiles" width="40" height="20" visible="0" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20LL6AAAAA+BgyAAAE=
+  </data>
+ </layer>
+</map>

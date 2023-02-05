@@ -1,0 +1,18 @@
+image: gcc
+
+build-job:
+  stage: build
+  tags:
+    - build_server
+    
+  script:
+    - chmod +x ./make_release.sh
+    - ./make_release.sh
+    
+  artifacts:
+    paths:
+      - release/build_linux.zip
+
+    
+
+      
