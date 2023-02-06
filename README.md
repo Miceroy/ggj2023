@@ -6,5 +6,7 @@ Sources released under MIT License here: https://github.com/Miceroy/ggj2023
 
 Gameplay video: [https://www.youtube.com/watch?v=k0fhZqRUGKM&ab_channel=filthsu](https://www.youtube.com/watch?v=k0fhZqRUGKM&ab_channel=filthsu)
 
+License: [MIT License](LICENSE)
+
 
 
